@@ -1,6 +1,6 @@
 ---
 layout: post
-author: donal
+author: Donal
 title: How I created this site
 ---
 

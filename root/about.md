@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Donal | About
 ---
 # About page

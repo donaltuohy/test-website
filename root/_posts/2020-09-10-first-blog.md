@@ -1,6 +1,6 @@
 ---
 layout: post
-author: donal
+author: Donal
 title: First Blog Post
 ---
 I've created this blog as an experiment and hope to keep updating it over time.

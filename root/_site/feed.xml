@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-09-11T00:04:16+01:00</updated><id>/feed.xml</id><entry><title type="html">First Blog Post</title><link href="/2020/09/10/first-blog.html" rel="alternate" type="text/html" title="First Blog Post" /><published>2020-09-10T00:00:00+01:00</published><updated>2020-09-10T00:00:00+01:00</updated><id>/2020/09/10/first-blog</id><content type="html" xml:base="/2020/09/10/first-blog.html">&lt;p&gt;I’ve created this blog as an experiment and hope to keep updating it over time.&lt;/p&gt;
+
+&lt;p&gt;In the meantime here some info about me:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;From Wicklow, Ireland.&lt;/li&gt;
+  &lt;li&gt;Currently working as a software engineer on the EDGE team in Zendesk.&lt;/li&gt;
+  &lt;li&gt;I do alot of sport (Gaelic football, soccer, running, squash, snowboarding, soon to start playing golf)&lt;/li&gt;
+  &lt;li&gt;In my spare time I’m trying my hand at photography.&lt;/li&gt;
+  &lt;li&gt;I’m colourblind.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Donal</name></author><summary type="html">I’ve created this blog as an experiment and hope to keep updating it over time.</summary></entry><entry><title type="html">How I created this site</title><link href="/2020/09/10/second-blog.html" rel="alternate" type="text/html" title="How I created this site" /><published>2020-09-10T00:00:00+01:00</published><updated>2020-09-10T00:00:00+01:00</updated><id>/2020/09/10/second-blog</id><content type="html" xml:base="/2020/09/10/second-blog.html">&lt;p&gt;I used a tool called &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; which allow you to create static websites.&lt;/p&gt;
+
+&lt;p&gt;I’ll update this blog post with more details as I learn.&lt;/p&gt;</content><author><name>Donal</name></author><summary type="html">I used a tool called Jekyll which allow you to create static websites.</summary></entry></feed>
